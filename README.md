@@ -1,4 +1,4 @@
-# wyze Cam Merge Files
+# Wyze Cam Merge Files
 
 ```bash
 #!/bin/bash
